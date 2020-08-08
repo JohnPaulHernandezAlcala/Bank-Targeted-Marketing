@@ -1,7 +1,7 @@
 # Bank Targeted Marketing
 
-<img src="https://cdn.wallethub.com/wallethub/posts/76002/banking-landscape-report.png" width="300"><img src="https://img2.pngio.com/business-growth-chart-png-transparent-growth-charts-transparent-business-growth-png-820_387.png" width="500">
-<img src="https://acrobatant.com/wp-content/uploads/2018/09/Target_Marketing.jpg" width="500">
+<img src="https://cdn.wallethub.com/wallethub/posts/76002/banking-landscape-report.png" width="600">
+<img src="https://acrobatant.com/wp-content/uploads/2018/09/Target_Marketing.jpg" width="350"><img src="https://img2.pngio.com/business-growth-chart-png-transparent-growth-charts-transparent-business-growth-png-820_387.png" width="500">
 
 *Author: John Paul Hernandez Alcala*
 
