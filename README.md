@@ -1,7 +1,11 @@
 # Bank Targeted Marketing
+<img src="https://cdn.wallethub.com/wallethub/posts/76002/banking-landscape-report.png" width="300"><img src="https://acrobatant.com/wp-content/uploads/2018/09/Target_Marketing.jpg" width="300"><img src="https://img2.pngio.com/business-growth-chart-png-transparent-growth-charts-transparent-business-growth-png-820_387.png" width="350">
+
+
+*Author: John Paul Hernandez Alcala*
 
 ## Description 
-This project uses a data derived method for predicting which client type should be targeted for successful bank telemarketing. A presentation that investigates which house features affect house price, derives a model that can predict house pricing, and uncovers 3 concrete features that highly influence house prices. Findings from both the project and presentation are for people interested in seeing whether certain features will affect house price (or not), accurately and precisely placing prices on houses, and grouping houses with specific features in specific budget ranges.
+This project uses a data derived method for predicting which client type should be targeted for successful bank telemarketing. A presentation that investigates which client features affect marketing success rate and machine learning methods result in a high prediction accuracy and precision.
 
 
 
