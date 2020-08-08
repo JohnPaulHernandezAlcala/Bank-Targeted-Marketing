@@ -57,4 +57,9 @@ See [LICENSE.md](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/bl
 
 [S. Moro, R. Laureano and P. Cortez. Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology. In P. Novais et al. (Eds.), Proceedings of the European Simulation and Modelling Conference - ESM'2011, pp. 117-121, Guimaraes, Portugal, October, 2011. EUROSIS. [bank.zip]](https://www.semanticscholar.org/paper/Using-data-mining-for-bank-direct-marketing%3A-an-of-Moro-Laureano/a175aeb08734fd669beaffd3d185a424a6f03b84)
 
+# Image Sources:
+https://cdn.wallethub.com/wallethub/posts/76002/banking-landscape-report.png
+https://img2.pngio.com/business-growth-chart-png-transparent-growth-charts-transparent-business-growth-png-820_387.png
+https://acrobatant.com/wp-content/uploads/2018/09/Target_Marketing.jpg
+
 #### -- Project Status: [In Progress]
