@@ -59,7 +59,9 @@ See [LICENSE.md](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/bl
 
 # Image Sources:
 https://cdn.wallethub.com/wallethub/posts/76002/banking-landscape-report.png
+
 https://img2.pngio.com/business-growth-chart-png-transparent-growth-charts-transparent-business-growth-png-820_387.png
+
 https://acrobatant.com/wp-content/uploads/2018/09/Target_Marketing.jpg
 
 #### -- Project Status: [In Progress]
