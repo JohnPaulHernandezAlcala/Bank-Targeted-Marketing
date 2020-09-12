@@ -17,6 +17,18 @@ This project uses a data derived method for predicting which client type should 
 ### 2. Follow along with the coding narrative and comments.
 ### 3. Preview the uploaded presentation, [Bank Targeted Marketing](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Bank%20Targeted%20Marketing.pdf).
 
+## From Analysis
+
+### Job-Education Pair Graph
+![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Education_Job__prop_Graph.png)
+![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Education_Job_Graph.png)
+
+### Job-Education Pair Age Distribution
+![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/AgeDistribution.png)
+
+### Month Contacted and Times Contacted Before Marketing Campaign
+![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Month_Previous_Graph.png)
+
 ## Conclusion
 From the analysis of this data and implemenation of multiple models and thresholds, it was determined that the best model from the 5 used models in this project is the random forest model with a threshold of 0.2701844 because of its highest recall score of 0.72 for 'yes', AUC of 0.79, specificity of ~72%, and sensitivity of ~72%. From this model, we can conclude that our top features are the following: 
 
