@@ -7,34 +7,34 @@
 *Author: John Paul Hernandez Alcala*
 
 ## Description 
-This project uses a data derived method for predicting which client type should be targeted for successful bank telemarketing. A presentation that investigates which client features affect marketing success rate and machine learning methods result in a high prediction accuracy and precision.
+This project uses a data derived method for predicting which client type should be targeted for successful bank telemarketing. A presentation that investigates which client features affect marketing success rate and machine learning methods result in a high F1 score, recall score, and AUC.
 
 
 
 ## Where to Start First:
 
-### 1. Access the [Table of Content](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/Table%20of%20Content.ipynb) for navigation and a breakdown of the analysis process.
-NOTE: For full navigation abilities, open up Table of Content in Jupyter Notebook.
+### 1. Access the [Jupyter Notebook](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/BankTargetedMarketing.ipynb) for navigation and a breakdown of the analysis process.
 ### 2. Follow along with the coding narrative and comments.
-### 3. Preview the uploaded presentation, [House Price Analysis & Insights](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/House%20Price%20Analysis%20%26%20Insights.pdf).
+### 3. Preview the uploaded presentation, [Bank Targeted Marketing](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/House%20Price%20Analysis%20%26%20Insights.pdf).
 
 ## Conclusion
-With all the features, we built a model with multiple linear regression. This model was evaluated for performance and found to have an accuracy of 83.45% and a high precision (low error). Because of the high accuracy and precision of this model, we can identify three concrete features (also known as coefficients) that highly influence housing prices: Bathrooms, Grade and Zip Code.
+With all the features, we built a model with random forest classification. This model was evaluated for performance and found to have a recall of 56%, f score of 51%, and AUC of 0.79. Wither our model, we can identify top ten features that drive our model.
 
-### Bar Graph of Model's Performance
-![Price Vs Model Prediction Price](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/RealActualVsPrediction.png)
+### Model in Action
+![Actual Answer Vs Model Prediction Price](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Model_in_Action.png)
 
-### Model's Error
-![Model Error](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/results.PNG)
+### Model's Confusion Matrix
+![Confusion Matrix](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/RF_ConfusionMatrix.png)
 
-### Model's Coefficients
-![Coefficients](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/morePredictorCoef.PNG)
+### Model's Top 10 Features
+![Features](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Top10Features.png)
 
 
 ## Recommended Uses for the Model:
-* Allows housing developments to see which features in houses will see higher, lower, or negligible effects on house price based on model coefficients.
-* Allows sellers to accurately and precisely place prices on houses
-* Allows placements of houses with specific features in specific budget ranges for buyers
+Subscriber outcome is determined by:
+* Students who have a certain education level
+* Client Age
+* Contact efforts
 
 
 ## Support
