@@ -24,7 +24,6 @@ From the analysis of this data and implemenation of multiple models and threshol
 ![Top 10 Features](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Top10Features_clear.png)
 
 
-
 ## Model in Action
 Below, we can see the prediction ability in action from both the original model and the model with a custom threshold
 
@@ -37,15 +36,18 @@ Below, we can see the prediction ability in action from both the original model 
 ### Model with Custom Threshold Confusion Matrix
 ![Confusion Matrix](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/RF_ConfusionMatrix_with_Threshold.png)
 
+Here we see our model with and without a threshold implemented. This threshold makes our model more sensitive, but less specific and precise than the default model; that is, our threshold model allows for more false positives in order to reduce false negatives which is our goal in this scenario. With the threshold model, we are able to predict ~72% of clients as subscribers who were indeed subscribers, and it also predicted 73% of clients as non-subscribers who were indeed not subscribers. This is compared to our original model that was able to predict 56% of clients as subscribers who were indeed subscribers and 92% of clients as non-subscribers who were indeed not subscribers.
+
 ### ROC-AUC Graph of 5 Models with Custom Threshold
 ![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/ROC-AUC_with_threshold_Graph.png)
 
 
-## Recommended Uses for the Model:
-Subscriber outcome is determined by:
-* Subscriber outcome is high for students who have an education level at 'basic.4y', 'basic.9y', 'high.school'
-* Subscriber outcome is high for certain age ranges for students, retired, and unemployed
-* Subscriber outcome is high for client contact efforts and timing: month contact, and previous calls
+## Recommendations from Model and Analysis:
+Subscriber outcome is high for:
+* Top Ten Features of Model
+* Students who have an education level at 'basic.4y', 'basic.9y', 'high.school'
+* Certain age ranges for students, retired, and unemployed
+* Client contact efforts and timing: month contact, and previous calls
 
 
 ## Support
