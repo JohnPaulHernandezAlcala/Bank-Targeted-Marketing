@@ -26,7 +26,7 @@ From the analysis of this data and implemenation of multiple models and threshol
 
 
 ## Model in Action
-Below, we can see the prediction ability in action from both the original model and the model with a the custom threshold
+Below, we can see the prediction ability in action from both the original model and the model with a custom threshold
 
 ### Original Model
 ![Actual Answer Vs Model Prediction Price](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Model_in_Action.png)
