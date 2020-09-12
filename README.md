@@ -29,13 +29,6 @@ This project uses a data derived method for predicting which client type should 
 ### Month Contacted and Times Contacted Before Marketing Campaign
 ![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Month_Previous_Graph.png)
 
-## Conclusion
-From the analysis of this data and implemenation of multiple models and thresholds, it was determined that the best model from the 5 used models in this project is the random forest model with a threshold of 0.2701844 because of its highest recall score of 0.72 for 'yes', AUC of 0.79, specificity of ~72%, and sensitivity of ~72%. From this model, we can conclude that our top features are the following: 
-
-### Top 10 Features
-![Top 10 Features](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Top10Features_clear.png)
-
-
 ## Model in Action
 Below, we can see the prediction ability in action from both the original model and the model with a custom threshold
 
@@ -53,6 +46,13 @@ Here we see our model with and without a threshold implemented. This threshold m
 ### ROC-AUC Graph of 5 Models with Custom Threshold
 ![](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/ROC-AUC_with_threshold_Graph.png)
 
+From this model, we can conclude that our top features are the following: 
+
+### Top 10 Features
+![Top 10 Features](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Top10Features_clear.png)
+
+## Conclusion
+From the analysis of this data and implemenation of multiple models and thresholds, it was determined that the best model from the 5 used models in this project is the random forest model with a threshold of 0.2701844 because of its highest recall score of 0.72 for 'yes', AUC of 0.79, specificity of ~72%, and sensitivity of ~72%. 
 
 ## Recommendations from Model and Analysis:
 Subscriber outcome is high for:
