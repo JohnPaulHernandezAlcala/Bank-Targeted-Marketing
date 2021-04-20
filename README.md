@@ -13,7 +13,7 @@ This project uses a data derived method for predicting which client type should 
 
 ## Where to Start First:
 
-### 1. Access the [Preprocessing.ipynb](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Preprocessing.ipynb) first and go from there or look at all the code at once in [Total_Code.ipynb](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Total_Code.ipynb).
+### 1. Access the [Preprocessing.ipynb](https://nbviewer.jupyter.org/github/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Preprocessing.ipynb) first and go from there or look at all the code at once in [Total_Code.ipynb](https://nbviewer.jupyter.org/github/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Total_Code.ipynb).
 ### 2. Follow along with the coding narrative and comments.
 ### 3. Preview the uploaded presentation, [Bank Targeted Marketing](https://github.com/JohnPaulHernandezAlcala/Bank-Targeted-Marketing/blob/master/Bank%20Targeted%20Marketing.pdf).
 
